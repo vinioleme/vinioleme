@@ -1,5 +1,8 @@
-### Hello, World. 
-### I am Vinícius Leme 👋
+# Hello, World. 
+# I am Vinícius Leme 👋
+
+## I'm a front-end developer, with skills in React.js and Figma. I am currently studying web development so that I will soon become a full stack developer.
+## I am passionate about science and art, that's why I graduated in chemistry, and I work professionally as a photographer.
 
 - 🔭 I’m currently studing Web Development
 - 🌱 I’m currently learning React.js
@@ -28,4 +31,4 @@
 
 ### Social
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinileme/)
